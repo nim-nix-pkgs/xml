@@ -9,7 +9,7 @@
   
   inputs.src-xml-master.flake = false;
   inputs.src-xml-master.owner = "ba0f3";
-  inputs.src-xml-master.ref   = "refs/heads/master";
+  inputs.src-xml-master.ref   = "master";
   inputs.src-xml-master.repo  = "xml.nim";
   inputs.src-xml-master.type  = "github";
   
